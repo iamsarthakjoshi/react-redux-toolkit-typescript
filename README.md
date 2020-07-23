@@ -2,7 +2,7 @@
 A simple react To-Do App using React Tool Kit (RKT) and Typescript.
 
 
-![alt text](https://github.com/iamsarthakjoshi/react-redux-toolkit-typescript/blob/redux-toolkit-way/app-image.png?raw=true)
+![alt text](https://github.com/iamsarthakjoshi/react-redux-toolkit-typescript/blob/app-image.png?raw=true)
 
 
 The `master` or `redux-toolkit-way` branches demonstrates the React Tool Kit usages, replacing the old way,
@@ -25,4 +25,4 @@ whereas `redux-original-old-way` branch demonstrates the traditional way of usin
     - Start application:
         `npm start`
 
-Thanks to @angle943 !
+Thanks to [@angle943](https://github.com/angle943/redux-toolkit-comparison) !
