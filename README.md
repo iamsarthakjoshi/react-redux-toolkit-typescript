@@ -2,7 +2,7 @@
 A simple react To-Do App using React Tool Kit (RKT) and Typescript.
 
 
-![alt text](https://github.com/iamsarthakjoshi/react-redux-toolkit-typescript/blob/app-image.png?raw=true)
+![App Peekaboo!](https://github.com/iamsarthakjoshi/react-redux-toolkit-typescript/blob/master/app-image.png?raw=true)
 
 
 The `master` or `redux-toolkit-way` branches demonstrates the React Tool Kit usages, replacing the old way,
