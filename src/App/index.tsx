@@ -7,13 +7,13 @@ import React, {
 } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 
-// import {
-//   createTaskActionCreator,
-//   deleteTaskActionCreator,
-//   editTaskActionCreator,
-//   selectTaskActionCreator,
-//   toggleTaskActionCreator,
-// } from '../redux-oldway';
+import {
+  createTaskActionCreator,
+  deleteTaskActionCreator,
+  editTaskActionCreator,
+  selectTaskActionCreator,
+  toggleTaskActionCreator,
+} from '../redux-toolkit-way';
 import { State } from '../type';
 import './App.css';
 
