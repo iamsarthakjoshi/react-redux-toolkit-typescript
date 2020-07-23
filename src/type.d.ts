@@ -1,11 +1,11 @@
-export interface Todo {
+export interface Task {
   id: string;
-  desc: string;
+  description: string;
   isComplete: boolean;
 }
 
 export interface State {
-  todos: Todo[];
-  selectedTodo: string | null;
+  tasks: Task[];
+  selectedTask: string | null;
   counter: number;
 }

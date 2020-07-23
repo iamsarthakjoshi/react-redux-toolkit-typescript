@@ -112,7 +112,7 @@ li.active {
   font-style: italic;
 }
 
-.todo-desc {
+.todo-description {
   display: block;
   font-weight: bold;
 }
