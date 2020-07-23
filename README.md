@@ -16,7 +16,7 @@ whereas `redux-original-old-way` branch demonstrates the traditional way of usin
 
 ## Want to checkout the old way of doing Redux? :(
 - First fetch the `redux-original-old-way` and checkout into the branch: 
-    - Run `git fetch origin redux-original-old-way` and `git checkouredux-original-old-way`
+    - Run `git fetch origin redux-original-old-way` and `git checkout redux-original-old-way`
 - Sadly you have to install the dependencies again, so run: `npm i`
 - Start application: `npm start`
 
