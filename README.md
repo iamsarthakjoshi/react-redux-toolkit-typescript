@@ -12,17 +12,17 @@ whereas `redux-original-old-way` branch demonstrates the traditional way of usin
 ## How to start app?
     - Clone the repository and `cd` to the folder
     - Install dependencies: 
-        ```npm i```
+    ```npm i```
     - Start application:
-        ```npm start```
+    ```npm start```
 
 ## Want to checkout the old way of doing Redux? :(
     - First fetch the `redux-original-old-way` and checkout into the branch:
-        ```git fetch origin redux-original-old-way```
-        ```git checkout redux-original-old-way```
+    ```git fetch origin redux-original-old-way```
+    ```git checkout redux-original-old-way```
     - Sadly you have to install the dependencies again:
-        ```npm i```
+    ```npm i```
     - Start application:
-        ```npm start```
+    ```npm start```
 
-Thanks to [@angle943](https://github.com/angle943/redux-toolkit-comparison) :+1
+Thanks to [@angle943](https://github.com/angle943/redux-toolkit-comparison) :+1:
