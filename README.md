@@ -1,2 +1,2 @@
 # react-redux-toolkit-typescript
-A simple react project using RKT and Typescript.
+A simple react To-Do App using React Tool Kit (RKT) and Typescript.
